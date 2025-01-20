@@ -4,3 +4,4 @@ The Contact Management System is a Java-based application that allows users to m
 Features:-
 It adds new contacts to the database, view all contacts stored in the database,update contact details, delete contacts from the database, search for contacts by name.
 
+To see the code, click on master branch.
